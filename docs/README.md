@@ -78,4 +78,4 @@ A good middleman should do this anyways, but you should make sure you're keeping
 
 # Commencing the trade
 
-No matter what someone tells you, no matter how trusted they are, do <b>not</b> do a trust trade. That is just a recipe for disaster. Instead, ping for a middleman in a server with 1k+ members, dedicated to Identity V trading. Again, if you're not sure, <i>ask</i>. As a rule of thumb, I like to pick middlemen with at least 50 vouches, all recorded in a way I can view directly (Discord messages, usually in their own private server).
+No matter what someone tells you, no matter how trusted they are, do <b>not</b> do a trust trade. That is just a recipe for disaster. Instead, ping for a middleman in a server with 1k+ members, dedicated to Identity V trading. Again, if you're not sure, <i>ask</i>. As a rule of thumb, I like to pick middlemen with at least 50 vouches, all recorded in a way I can view directly (Discord messages, usually in their own private server connected to a public one, or a public one itself).
