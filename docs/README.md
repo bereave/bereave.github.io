@@ -87,21 +87,21 @@ If you middleman skips any steps in this process, <i>do not be afraid to ask abo
 2. Asks for account edits and what the server, device, device transfer, and DMM statuses are for the accounts. They should also ask if either user is the original owner of their account, if there is any known any leech history, if the account has had a DMM removal, if is there any echo debt, and if there are any installment trials.
 3. After receiving the transaction details, asks the traders to send them the login details via DMs (if it's an account with an active DMM that is the only login info needed).
 4. If all skins shown on the edit are featured on the account, if anything is missing
-> If there are any negative echoes
- > If there is anything suspicious on the account:  non-standard persona names, guild chats, team chats or most recent friend chats, low morality points 
-> If there is an active secondary password, they'll ask for the info if there is one and remove it themself
-> If there is an unstated DMM, force-closed secondary password
-> If there are any instalment trials on the account (skins, characters, accessories, lobbies)
-> Anything the trader asks for - it could be specific accessories, the account rank, limited emotes etc. 
+> - If there are any negative echoes
+ - If there is anything suspicious on the account:  non-standard persona names, guild chats, team chats or most recent friend chats, low morality points 
+> - If there is an active secondary password, they'll ask for the info if there is one and remove it themself
+> - If there is an unstated DMM, force-closed secondary password
+> - If there are any instalment trials on the account (skins, characters, accessories, lobbies)
+> - Anything the trader asks for - it could be specific accessories, the account rank, limited emotes etc. 
 They will then send a picture of notable skins to the trader so you can confirm the skins are there, from the lobby or from the book section if unowned, mention how the checking of each criteria goes. It is totally appropriate to ask for pictures of everything as well, if you would prefer to be thorough.
 5. After they switch to their own binds and secure the account, they'll ask for logout proof. Here is how proper logout proof is done:
->  Begin the video with the groupchat the trade is happening in
-> Then the time it is being recorded during is shown (so you know it isn't pre-recorded)
-> Going to Identity V
-> Show the binds to confirm they're yours and not theirs anymore
-> Clicking the Logout button
-> Show the binds again to confirm they're not logged into any account anymore
-> The group chat again (not necessary, but recommended)
->*** !! FOR ANDROID !!, logout proof includes making a guest account as you can't directly logout on that OS.
+> - Begin the video with the groupchat the trade is happening in
+> - Then the time it is being recorded during is shown (so you know it isn't pre-recorded)
+> - Going to Identity V
+> - Show the binds to confirm they're yours and not theirs anymore
+> - Clicking the Logout button
+> - Show the binds again to confirm they're not logged into any account anymore
+> - The group chat again (not necessary, but recommended)
+> - *** !! FOR ANDROID !!, logout proof includes making a guest account as you can't directly logout on that OS.
 6. They'll repeat this for the other account; once both logout proofs are sent they'll bind your new accounts and allow you in. Take a photo and send it in the chat as login proof.
 7. The MM will do their own logout proof. Please change any passwords they have accessed, just in case.
