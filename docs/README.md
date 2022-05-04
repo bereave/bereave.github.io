@@ -48,7 +48,7 @@ To remedy this major inconvienence, I've created a semi-comprehensive way to fin
 
 > 1 - Do you have any skins with the limited tag? If *yes*, check the "skins" part of the website and get a better idea that way. Usually the older the skin and the more popular the character, the higher the skin is worth.\
 2 - What is your server and device? The highest value combo is iOS/NAEU, and the account worth pecking order goes from iOS NAEU -> Android NAEU -> iOS Asia -> Android Asia, but with device transfer device is less relevant.\
-3 - Do you have any crossover or COA skins? Persona is the highest value crossover, and COA3 is the first COA with its own tag (outside of the "limited" one). Persona accounts can fetch a lot of money and are very good for trading, and people do look for COA3-4-5 skins often. Usually they don't want the hunter ones, though, unless it's Michiko's Eternal Aurora, which goes for about 15 USD.\
+3 - Do you have any crossover or COA skins? Persona is the highest value crossover, and COA3 is the first COA with its own tag (outside of the "limited" one). Persona accounts can fetch a lot of money and are very good for trading, and people do look for COA3-4-5 skins often. Usually they don't want the hunter ones, though, unless it's Michiko's Eternal Aurora, which goes for about 15 USD.
 
 If your account doesn't look like it fits any of this, with very few exceptions, its worth is pretty low. However, if you have time-limited skins (shop skins that only come back at certain times of the year, like Lady Bella), you could still trade up slightly. If you actually want to trade up quickly and find yourself in this situation, I would recommend selling your account for whatever you can get for it and then buying an account that is worth slightly more or is more tradeable. More about this in the strategic sections.
 
@@ -105,3 +105,7 @@ They will then send a picture of notable skins to the trader so you can confirm 
 > - *** !! FOR ANDROID !!, logout proof includes making a guest account as you can't directly logout on that OS.
 6. They'll repeat this for the other account; once both logout proofs are sent they'll bind your new accounts and allow you in. Take a photo and send it in the chat as login proof.
 7. The MM will do their own logout proof. Please change any passwords they have accessed, just in case.
+
+# MM Process - Sale
+
+The beginning of a sale follows the same structure as a trade, but the MM will secure the account + get logout proof from the seller, then make sure the seller recives money from the buyer, then give the account to the buyer.
