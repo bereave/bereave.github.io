@@ -78,4 +78,30 @@ A good middleman should do this anyways, but you should make sure you're keeping
 
 # Commencing the trade
 
-No matter what someone tells you, no matter how trusted they are, do <b>not</b> do a trust trade. That is just a recipe for disaster. Instead, ping for a middleman in a server with 1k+ members, dedicated to Identity V trading. Again, if you're not sure, <i>ask</i>. As a rule of thumb, I like to pick middlemen with at least 50 vouches, all recorded in a way I can view directly (Discord messages, usually in their own private server connected to a public one, or a public one itself).
+No matter what someone tells you, no matter how trusted they are, do <b>not</b> do a trust trade. That is just a recipe for disaster. Instead, ping for a middleman in a server with 500+ members, dedicated to Identity V trading, and is trusted in other servers you ask in or is partnered with a lot or prominent servers if it is not one itself. (Please do not use IDV Global Market.) Again, if you're not sure, <i>ask</i>. As a rule of thumb, I like to pick middlemen with at least 50 vouches, all recorded in a way I can view directly (Discord messages, usually in their own private server connected to a public one, or a public one itself). Background check your middleman as well! You never know what you may find; there's often impersonaters and scam MMs that pop up.
+
+# MM Process
+
+If you middleman skips any steps in this process, <i>do not be afraid to ask about it</i>. You have to advocate for yourself, and stay vigilant. (Thanks for the material, Eks, I am really lazy and don't want to type this section.) This is a trade process; the difference between sale and trade processes will be explained in a moment.
+1. States what the objective for the trade is and where you can find their vouches.
+2. Asks for account edits and what the server, device, device transfer, and DMM statuses are for the accounts. They should also ask if either user is the original owner of their account, if there is any known any leech history, if the account has had a DMM removal, if is there any echo debt, and if there are any installment trials.
+3. After receiving the transaction details, asks the traders to send them the login details via DMs (if it's an account with an active DMM that is the only login info needed).
+4. If all skins shown on the edit are featured on the account, if anything is missing
+> If there are any negative echoes
+ > If there is anything suspicious on the account:  non-standard persona names, guild chats, team chats or most recent friend chats, low morality points 
+> If there is an active secondary password, they'll ask for the info if there is one and remove it themself
+> If there is an unstated DMM, force-closed secondary password
+> If there are any instalment trials on the account (skins, characters, accessories, lobbies)
+> Anything the trader asks for - it could be specific accessories, the account rank, limited emotes etc. 
+They will then send a picture of notable skins to the trader so you can confirm the skins are there, from the lobby or from the book section if unowned, mention how the checking of each criteria goes. It is totally appropriate to ask for pictures of everything as well, if you would prefer to be thorough.
+5. After they switch to their own binds and secure the account, they'll ask for logout proof. Here is how proper logout proof is done:
+>  Begin the video with the groupchat the trade is happening in
+> Then the time it is being recorded during is shown (so you know it isn't pre-recorded)
+> Going to Identity V
+> Show the binds to confirm they're yours and not theirs anymore
+> Clicking the Logout button
+> Show the binds again to confirm they're not logged into any account anymore
+> The group chat again (not necessary, but recommended)
+>*** !! FOR ANDROID !!, logout proof includes making a guest account as you can't directly logout on that OS.
+6. They'll repeat this for the other account; once both logout proofs are sent they'll bind your new accounts and allow you in. Take a photo and send it in the chat as login proof.
+7. The MM will do their own logout proof. Please change any passwords they have accessed, just in case.
