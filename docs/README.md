@@ -80,7 +80,7 @@ A good middleman should do this anyways, but you should make sure you're keeping
 
 No matter what someone tells you, no matter how trusted they are, do <b>not</b> do a trust trade. That is just a recipe for disaster. Instead, ping for a middleman in a server with 500+ members, dedicated to Identity V trading, and is trusted in other servers you ask in or is partnered with a lot or prominent servers if it is not one itself. (Please do not use IDV Global Market.) Again, if you're not sure, <i>ask</i>. As a rule of thumb, I like to pick middlemen with at least 50 vouches, all recorded in a way I can view directly (Discord messages, usually in their own private server connected to a public one, or a public one itself). Background check your middleman as well! You never know what you may find; there's often impersonaters and scam MMs that pop up.
 
-# MM Process
+## MM Process
 
 If you middleman skips any steps in this process, <i>do not be afraid to ask about it</i>. You have to advocate for yourself, and stay vigilant. (Thanks for the material, Eks, I am really lazy and don't want to type this section.) This is a trade process; the difference between sale and trade processes will be explained in a moment.
 1. States what the objective for the trade is and where you can find their vouches.
@@ -106,6 +106,7 @@ They will then send a picture of notable skins to the trader so you can confirm 
 6. They'll repeat this for the other account; once both logout proofs are sent they'll bind your new accounts and allow you in. Take a photo and send it in the chat as login proof.
 7. The MM will do their own logout proof. Please change any passwords they have accessed, just in case.
 
-# MM Process - Sale
+### MM Process - Sale
 
 The beginning of a sale follows the same structure as a trade, but the MM will secure the account + get logout proof from the seller, then make sure the seller recives money from the buyer, then give the account to the buyer.
+
