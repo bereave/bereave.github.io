@@ -1,5 +1,5 @@
 # Basics
-> This documentation is only meant to serve as a resource. If you have further questions, check out 
+> This documentation is only meant to serve as a resource. If you have further questions, check out [my trading help server](https://discord.gg/pqFk793nU7) -- just like this documentation, though, it's still a heavy WIP.
 
 ## Understanding trade terms
 > The following is a term dictionary for edits and buy/sell channel terms. These definitions will help you trade more effectively.
@@ -38,7 +38,7 @@ While there are always a few people willing to make you an edits, it's good prac
 Discord is by far the best and safest way to trade Identity V accounts, but only if you go about it safely. This guide, therefore, will only focus on Discord trading. If you have a recent Discord account (made in the past four months), you're going to have trouble trading because most people will not trade or perform services for you. This is because your UID is too new if it begins with a 9, and people would rather not risk possible scammer accounts.
 > [How to find your Discord UID.](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
 
-If you're still willing to navigate Discord (9 UID or not), you have to then pick reputable servers to join. Obviously, I'm going to plug the servers I'm staff in; [Trading Nexus](https://discord.gg/hXYz3ZqcAq) and [Antonio's Concert Hall](https://discord.gg/2WRDvZ2DEU). Say hi if you want; my display name is almost always "seer gaming." At the time of posting this, [Illusion Hall](https://discord.gg/mYJnmnUywP) is the biggest trade server. There is also a list compiled in [my trading help server](https://discord.gg/pqFk793nU7), which may help you organize better and join servers quicker. You are not required to join, of course, as I'll post most things from there here as well; however, I personally find it easier to check that way.
+If you're still willing to navigate Discord (9 UID or not), you have to then pick reputable servers to join. Obviously, I'm going to plug the servers I'm staff in; [Trading Nexus](https://discord.gg/hXYz3ZqcAq) and [Truth & Inference Detective Agency](https://discord.gg/4BSueyPWkx). Say hi if you want; my display name is almost always "seer gaming." At the time of posting this, [Illusion Hall](https://discord.gg/mYJnmnUywP) is the biggest trade server. There is also a list compiled in [my trading help server](https://discord.gg/pqFk793nU7), which may help you organize better and join servers quicker. You are not required to join, of course, as I'll post most things from there here as well; however, I personally find it easier to check that way.
 
 # Account worth and offering
 
@@ -110,3 +110,4 @@ They will then send a picture of notable skins to the trader so you can confirm 
 
 The beginning of a sale follows the same structure as a trade, but the MM will secure the account + get logout proof from the seller, then make sure the seller recives money from the buyer, then give the account to the buyer.
 
+# How to not get scammed, for dummies
