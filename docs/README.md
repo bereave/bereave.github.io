@@ -131,6 +131,7 @@ Immediately once you notice leech activity, check if account migration/DT is ope
 3. enter the code and pass, click confirm
 4. don't touch your binds rn, log in and make sure it's the same account
 5. bind to new bind
+
 This will kick all leeches from your account, but uses your transfer code. If device transfer isn't open, feel free to consult me or any other scammer force member that has DMs open for what to do next. You may need to look into DMM removal, but you all may not.
 
 ## Echo refund
