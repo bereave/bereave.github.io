@@ -141,3 +141,11 @@ Scammers who have spend money on the account via credit or debit card can refund
 ## IDK what happened
 
 You should have opened a scam report ticket anyways, but especially do so if this is occuring.
+
+# DMM
+
+<i>This section is a work in progress! Please check by later.</i>
+
+# Device Transfer
+
+<i>This section is a work in progress! Please check by later.</i>
