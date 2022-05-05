@@ -126,11 +126,13 @@ A "leech" is a scammer that never truly logged out of an account, and is usually
 
 Immediately once you notice leech activity, check if account migration/DT is open for you. If it is, perform the following steps:\
 0. BEFORE YOU START: **make sure** you have a new bind that isn't currently binded to any idv acc
-1. generate migration code and pass in the security section
+1. generate migration code and pass in the safety section of your settings
 2. go to switch account -> migration [it's the one with two arrows]
 3. enter the code and pass, click confirm
 4. don't touch your binds rn, log in and make sure it's the same account
 5. bind to new bind
+6. switch to one of your old binds and you'll be put onto a tutorial screen; close the app, then reopen it, and unbind your old binds.
+7. switch back to your new bind, which should still take you to the your account. you can keep using this new bind or add your old binds.
 
 This will kick all leeches from your account, but uses your transfer code. If device transfer isn't open, feel free to consult me or any other scammer force member that has DMs open for what to do next. You may need to look into DMM removal, but you also may not; again, consult first.
 
