@@ -110,4 +110,27 @@ They will then send a picture of notable skins to the trader so you can confirm 
 
 The beginning of a sale follows the same structure as a trade, but the MM will secure the account + get logout proof from the seller, then make sure the seller recives money from the buyer, then give the account to the buyer.
 
-# How to not get scammed, for dummies
+# Anti-scam, for dummies
+
+While some of the above sections have info on how to do basic anti-scam (especially the background check instructions), this one will list the most common scams that cannot be prevented by using a middleman and how to avoid them. If you did not use a middleman and got scammed, which is <i>very</i> likely if you choose to trade without one, you can contact me on Discord for help instead. However, please recognize I'm pretty busy and I recommend that instead of contacting me you create a scammer report ticket in a trusted server, so that you can have more help and have other eyes to look at your evidence. <b>Please</b> screenshot all evidence you have if you've been scammed, including but not limited to as much of the conversation with the scammer(s) as you can, in-game evidence, et cetera.
+
+## Complete basics
+
+When you get an account, create a secondary password or change the secondary password already on it to one only you know. Then, close the IDV app and reopen it, but don't log into the game yet. Go to the bottom right corner and click where it tells you your server, NA/EU or Asia, and switch to the other one. Then, log into the game; if it gives you a tutorial screen, just proceed as to skip the tutorial and enter a name, then once you're in that new account set a secondary password there as well. Check your secondary password on your main side once every day, and on your opposite server side once every two days. If there is a "force close request," someone else entered your account and is trying to delete your password, most probably to steal it.
+
+## Leeches
+
+A "leech" is a scammer that never truly logged out of an account, and is usually on a different device or has a friend logged in. You see, when IDV account binds are changed it doesn't kick out anyone who is logged in, and people can lie about what devices they have for logout proof. You can tell a leech has logged in by checking your secondary password for force close requests, your persona builds for odd behaviour, your messages for odd behaviour, matches that were played that you didn't play, and most obviously notifications interrupting your play that say "account was logged in from other place" or something along those lines. Again, make sure you have a secondary password. Without one, leeches are able to perform device transfer (DT) or same device transfers (SDT) and kick <i>you</i> off of the account. If they have the DMM removal method, which is circulating still in scammer circles, they can also perform one to remove you off of the account.
+
+### Kicking a leech
+
+Immediately once you notice leech activity, check if account migration/DT is open for you. If it is, perform the following steps:
+0. BEFORE YOU START: **make sure** you have a new bind that isn't currently binded to any idv acc
+1. generate migration code and pass in the security section
+2. go to switch account -> migration [it's the one with two arrows]
+3. enter the code and pass, click confirm
+4. don't touch your binds rn, log in and make sure it's the same account
+5. bind to new bind
+This will kick all leeches from your account, but uses your transfer code.
+
+# DMM Basics
