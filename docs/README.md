@@ -118,11 +118,11 @@ While some of the above sections have info on how to do basic anti-scam (especia
 
 When you get an account, create a secondary password or change the secondary password already on it to one only you know. Then, close the IDV app and reopen it, but don't log into the game yet. Go to the bottom right corner and click where it tells you your server, NA/EU or Asia, and switch to the other one. Then, log into the game; if it gives you a tutorial screen, just proceed as to skip the tutorial and enter a name, then once you're in that new account set a secondary password there as well. Check your secondary password on your main side once every day, and on your opposite server side once every two days. If there is a "force close request," someone else entered your account and is trying to delete your password, most probably to steal it.
 
-## Leeches
+### Leeches
 
 A "leech" is a scammer that never truly logged out of an account, and is usually on a different device or has a friend logged in. You see, when IDV account binds are changed it doesn't kick out anyone who is logged in, and people can lie about what devices they have for logout proof. You can tell a leech has logged in by checking your secondary password for force close requests, your persona builds for odd behaviour, your messages for odd behaviour, matches that were played that you didn't play, and most obviously notifications interrupting your play that say "account was logged in from other place" or something along those lines. Again, make sure you have a secondary password. Without one, leeches are able to perform device transfer (DT) or same device transfers (SDT) and kick <i>you</i> off of the account. If they have the DMM removal method, which is circulating still in scammer circles, they can also perform one to remove you off of the account.
 
-### Kicking a leech
+#### Kicking a leech
 
 Immediately once you notice leech activity, check if account migration/DT is open for you. If it is, perform the following steps:
 0. BEFORE YOU START: **make sure** you have a new bind that isn't currently binded to any idv acc
@@ -134,11 +134,11 @@ Immediately once you notice leech activity, check if account migration/DT is ope
 
 This will kick all leeches from your account, but uses your transfer code. If device transfer isn't open, feel free to consult me or any other scammer force member that has DMs open for what to do next. You may need to look into DMM removal, but you all may not.
 
-## Echo refund
+### Echo refund
 
 Scammers who have spend money on the account via credit or debit card can refund their money and put your account into echo debt, making it unable to play matches in any gamemode (except Crystal Ball Tarot, unless they've fixed that) until the debt is paid off. This sucks and is totally unavoidable, so... yeah. Be wary of account with many echos.
 
-## IDK what happened
+### IDK what happened
 
 You should have opened a scam report ticket anyways, but especially do so if this is occuring.
 
