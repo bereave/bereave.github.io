@@ -137,6 +137,6 @@ This will kick all leeches from your account, but uses your transfer code. If de
 
 Scammers who have spend money on the account via credit or debit card can refund their money and put your account into echo debt, making it unable to play matches in any gamemode (except Crystal Ball Tarot, unless they've fixed that) until the debt is paid off. This sucks and is totally unavoidable, so... yeah. Be wary of account with many echos.
 
-## Well, I don't know exactly what happened to my account!
+## IDK what happened
 
 You should have opened a scam report ticket anyways, but especially do so if this is occuring.
