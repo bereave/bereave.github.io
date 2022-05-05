@@ -133,4 +133,10 @@ Immediately once you notice leech activity, check if account migration/DT is ope
 5. bind to new bind
 This will kick all leeches from your account, but uses your transfer code. If device transfer isn't open, feel free to consult me or any other scammer force member that has DMs open for what to do next. You may need to look into DMM removal, but you all may not.
 
-# DMM Basics
+## Echo refund
+
+Scammers who have spend money on the account via credit or debit card can refund their money and put your account into echo debt, making it unable to play matches in any gamemode (except Crystal Ball Tarot, unless they've fixed that) until the debt is paid off. This sucks and is totally unavoidable, so... yeah. Be wary of account with many echos.
+
+## Well, I don't know exactly what happened to my account!
+
+You should have opened a scam report ticket anyways, but especially do so if this is occuring.
