@@ -31,7 +31,7 @@ While there are always a few people willing to make you an edits, it's good prac
 3. Open the [Identity V Wiki](https://id5.fandom.com/wiki/Identity_V_Wiki), then go back to your editing software.
 4. Create a 1500x2500 canvas. If you took your photos from earlier in the room skin change, you can import all of those pictures as layers and work from there; if not, then you're going to have to grab images directly from the wiki, one at a time.
  1. This shit literally takes forever; don't be afraid to go notables only.
-5. Take a look at this [small Imgur album of edit examples](https://imgur.com/a/s01ZhSA). You'll want to include the following on your edit: DMM Status, Server (Asia or NA/EU), Device (iOS or Asia), and your social media tag like Discord, Insta, etc).
+5. Take a look at this [small Imgur album of edit examples](https://imgur.com/a/s01ZhSA). You'll want to include the following on your edit: DMM Status, Server (Asia or NA/EU), Device (iOS or Android), and your social media tag like Discord, Insta, etc).
 6. After you've added your skins and the above information, you're good to go! You don't have to make your edits very fancy, but some people like to.
 
 ## Joining trade servers + Discord notes
