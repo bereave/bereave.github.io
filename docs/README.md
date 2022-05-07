@@ -169,6 +169,7 @@ This process is much easier on PC, and I've never attempted it on mobile. Howeve
 2. Click the 編集 button on the right side of your email, and enter the email you are transferring to twice. Click the right side button with a red triangle pointing to the right twice.
 3. Check the new email's email; you should get a long link. Click it and just click the grey button that pops up. The email should be transferred.
 4. Change the password of the DMM account, or instruct the new DMM owner to do so and give them the current password; you must be logged in to transfer anything. This is steps 6-7 of the Creating a DMM account section.
+
 # Device Transfer
 
 <i>This section is a work in progress! Please check by later.</i>
