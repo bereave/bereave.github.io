@@ -71,7 +71,7 @@ Before you accept any offers, make sure to background check the person you're tr
 ) [four](https://docs.google.com/document/d/1YZ_rVjhcPTQv0HERPH9SmZNZagozt7A-t1lzTT1lE1M/edit
 ) [good](https://docs.google.com/document/d/1K-VhlLzrvWGUB88nxRejwe-4oJjKCASlDGwHlUhN5VQ/edit
 ) ones.
-2. Search the user's UID in two to three larger servers; I recommend, at the very least, using Illusion Hall.
+2. Search the user's UID in two to three larger servers; I recommend, at the very least, using Illusion Hall, but [IDVTAS](https://discord.gg/BmJgAFkjmq) is a super amazing resource for finding scam reports and alt massbans.
 3. If the account seems like a very big highball (offer that is way over your account's worth), look up the main three skins in a server with an account lookout channel.
 
 A good middleman should do this anyways, but you should make sure you're keeping yourself safe first. Ask for second opinions if you're not sure about that person or a trade!
