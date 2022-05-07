@@ -1,5 +1,5 @@
 # Basics
-> This documentation is only meant to serve as a resource. If you have further questions, check out [my trading help server](https://discord.gg/pqFk793nU7) -- just like this documentation, though, it's still a heavy WIP. If you would like to help with writing documentation or answering questions, join the server as well and DM me (seer gaming) directly.
+> This documentation is only meant to serve as a resource. If you have further questions, check out [my trading help server](https://discord.gg/pqFk793nU7) -- just like this documentation, though, it's still a heavy WIP. If you would like to help with writing documentation or answering questions, join the server as well and DM me (seer gaming) directly. We're currently in idvDocs ver 1.0, the initial release!
 
 ## Understanding trade terms
 > The following is a term dictionary for edits and buy/sell channel terms. These definitions will help you trade more effectively.
