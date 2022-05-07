@@ -154,7 +154,7 @@ This process is much easier on PC, and I've never attempted it on mobile. Howeve
 5. Hover over the person icon, and you should not see a yellow button now. Click the top right option on the menu that pops up; it is the only one in its section, and is labelled DMMアカウント情報.
 6. You should be on a screen with some information now, particularly one displaying the gmail you used to make this account. This section should be labelled メールアドレス; look below it and you will see パスワード, where you will add a password to the account as it doesn't inherit the gmail password. Click the 編集 button on the right of this section, and then the grey button that appears next.
 7. Check your email. There will be a new email from DMM with the subject DMM: パスワード再設定手続きのお知らせ, and you'll see a long link near the top of it. Click the link, then type in your new password in both boxes; it should be 6-36 characters alphanumeric, and though some other characters are allowed it's not really worth experimenting right now. Click the grey button once you're done, and the next one as well.
-8. You should be back at the information screen from before. Scroll to the bottom of the page and you should see a horizontal menu of five buttons; you'll be clicking the one labelled 外部サービス連携, which is also on the top right.
+8. You should be back at the information screen from before. Scroll to the bottom of the page and you should see a horizontal menu of five buttons; you'll be clicking the one labelled 外部サービス連携, which is also on the top right of the grid.
 9. You should be in a window that displays four types of social media; Google, Twitter, LINE and Facebook. The Google one will have text in red and a greyed out box; click the greyed out box and it should turn yellow. Your Google account is now disconnected from the DMM, but the email remains connected; this will be useful later.
 10. Hover over the person icon and click the box above everything else, labelled ログアウト. This logs you out of your DMM. Hover again and click the grey box to the right of the yellow box, labelled ログイン. Enter your email in the first box and your password in the second, then click the pink box under that section. You should get logged back into your account.
 
@@ -163,6 +163,12 @@ This process is much easier on PC, and I've never attempted it on mobile. Howeve
 2. A screen is going to pop up with a few things on it. For the text box just enter a name, and for the date enter anything that's over 18 years ago.
 3. Click the button at the bottom of the screen; you should get a message that says "DMM login failed." This doesn't matter, though.
 4. Try to bind DMM again, and it should work.
+
+## Transferring a DMM
+1. Log into the DMM and go to the profile/information screen that shows your email and allows you to change your password. Check the 外部サービス連携 section for any third party binds, and unbind them. This is step 9 of the Creating a DMM account process, if you are not sure how.
+2. Click the 編集 button on the right side of your email, and enter the email you are transferring to twice. Click the right side button with a red triangle pointing to the right twice.
+3. Check the new email's email; you should get a long link. Click it and just click the grey button that pops up. The email should be transferred.
+4. Change the password of the DMM account, or instruct the new DMM owner to do so and give them the current password; you must be logged in to transfer anything. This is steps 6-7 of the Creating a DMM account section.
 # Device Transfer
 
 <i>This section is a work in progress! Please check by later.</i>
