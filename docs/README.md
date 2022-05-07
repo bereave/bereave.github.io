@@ -183,6 +183,10 @@ DT works by changing the DATA that a LOGIN KEY accesses.
 1. When DT is used it generates a new LOGIN KEY to access your DATA
 2. Another login key is given to your SESSION to access after; this has no information on it, so you get the Orpheus tutorial screen
 3. Because a SESSION cannot be ended forcibly, the other person can still mess with DATA until they close the IDV app [from actively running] or switch accounts; they cannot switch binds or anything along those lines, as said above.
+## DT Trades
+This following terms aren't trading terms, but I will be using them to better describe how transfers are to be done in a trade context.
+__Native Device__ - your OS, iOS or Android
+__Foreign Device__ = the opposite OS to yours; if you have iOS it's Android, etc
 
 ## How to Native -> Foriegn DT
 1. Go to settings -> Safety (last tab) -> Account Migration and generate a code and password. Make your password very easy; I like using "kitten".
@@ -204,9 +208,5 @@ DT works by changing the DATA that a LOGIN KEY accesses.
 6. Switch to one of your old binds and you'll be put onto a tutorial screen; close the app, then reopen it, and unbind your old binds.
 7. Switch back to your new bind, which should still take you to the your account. you can keep using this new bind or add your old binds back to this new account.
 
-## DT Trades
-This following terms aren't trading terms, but I will be using them to better describe how transfers are to be done in a trade context.
-__Native Device__ - your OS, iOS or Android
-__Foreign Device__ = the opposite OS to yours; if you have iOS it's Android, etc
-__Solo Transfer__ = only one account is being transferred
-__Double Transfer__ = both accounts are being transferred to each other
+## Notes
+If you're a MM and would like a device transfer trade guide, just ask!
