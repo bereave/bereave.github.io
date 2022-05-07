@@ -157,8 +157,12 @@ This process is much easier on PC, and I've never attempted it on mobile. Howeve
 8. You should be back at the information screen from before. Scroll to the bottom of the page and you should see a horizontal menu of five buttons; you'll be clicking the one labelled 外部サービス連携, which is also on the top right.
 9. You should be in a window that displays four types of social media; Google, Twitter, LINE and Facebook. The Google one will have text in red and a greyed out box; click the greyed out box and it should turn yellow. Your Google account is now disconnected from the DMM, but the email remains connected; this will be useful later.
 10. Hover over the person icon and click the box above everything else, labelled ログアウト. This logs you out of your DMM. Hover again and click the grey box to the right of the yellow box, labelled ログイン. Enter your email in the first box and your password in the second, then click the pink box under that section. You should get logged back into your account.
-<i>This section is a work in progress! Please check by later.</i>
 
+## Adding DMM to IDV
+1. Open IDV and go to your account's binds; you should see your account's current binds. Click the DMM button and enter the login info to your DMM account.
+2. A screen is going to pop up with a few things on it. For the text box just enter a name, and for the date enter anything that's over 18 years ago.
+3. Click the button at the bottom of the screen; you should get a message that says "DMM login failed." This doesn't matter, though.
+4. Try to bind DMM again, and it should work.
 # Device Transfer
 
 <i>This section is a work in progress! Please check by later.</i>
