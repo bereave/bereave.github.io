@@ -88,7 +88,7 @@ If you middleman skips any steps in this process, <i>do not be afraid to ask abo
 3. After receiving the transaction details, asks the traders to send them the login details via DMs (if it's an account with an active DMM that is the only login info needed).
 4. If all skins shown on the edit are featured on the account, if anything is missing
 > - If there are any negative echoes
- - If there is anything suspicious on the account:  non-standard persona names, guild chats, team chats or most recent friend chats, low morality points 
+> - If there is anything suspicious on the account:  non-standard persona names, guild chats, team chats or most recent friend chats, low morality points 
 > - If there is an active secondary password, they'll ask for the info if there is one and remove it themself
 > - If there is an unstated DMM, force-closed secondary password
 > - If there are any instalment trials on the account (skins, characters, accessories, lobbies)
